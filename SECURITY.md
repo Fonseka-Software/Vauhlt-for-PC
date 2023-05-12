@@ -1,10 +1,15 @@
 # :warning: Security Policy
-[Fonseka Software (Fonse)](https://github.com/Fonseka-Software) takes the security of our software products and services very seriously, which includes all repositories managed through our GitHub organization and projects.
+[Fonseka Software (Fonseware)](https://github.com/Fonseka-Software) takes the security of our software products and services very seriously, which includes all repositories managed through our GitHub organization and projects.
 
-If you believe you have found a security vulnerability in any Fonse owned repository, please report it to us as described below. Unfortunately, we do not offer bug bounties for any of our products.
+If you believe you have found a security vulnerability in any Fonseware owned repository, please report it to us as described below. Unfortunately, we do not offer bug bounties for any of our products.
 
 ## Supported versions
-Either the latest (prefereble) or a penultimate version. It would be hard for us to revert to an older version and patch vulnerabilities.
+Either the latest (preferable) or a penultimate version. It would be hard for us to revert to an older version and patch vulnerabilities.
+
+| Version | Supported          |
+| ------- | ------------------ |
+| 7.x     | :white_check_mark: |
+| _Predecessors_| :x:                |
 
 ## Reporting a Vulnerability
 **Please do not report security vulnerabilities through public GitHub issues.**
@@ -32,11 +37,11 @@ We prefer all communications to be in English language.
 ## Disclosure Guidelines
 We ask you to follow our disclosure guidelines described below.
 
-We ask the researchers to give us sufficient time to develop suitable patches for our products. In coordinated vulnerability disclosure, Fonse will coordinate with the researchers throughout the vulnerability investigation and provide updates on case progress.
+We ask the researchers to give us sufficient time to develop suitable patches for our products. In coordinated vulnerability disclosure, Fonseware will coordinate with the researchers throughout the vulnerability investigation and provide updates on case progress.
 
-Upon successful release of product security patches under coordinated vulnerability disclosure, Fonse will recognize the researchers for endorsing coordinated vulnerability disclosure.
+Upon successful release of product security patches under coordinated vulnerability disclosure, Fonseware will recognize the researchers for endorsing coordinated vulnerability disclosure.
 
-Fonse recommends the research community to not disseminate any kind of information or tools that would help to exploit the vulnerability.
+Fonseware recommends the research community to not disseminate any kind of information or tools that would help to exploit the vulnerability.
 
 ##
 **Thank you so much for taking time in your research in finding vulnerabilities on our products.**
